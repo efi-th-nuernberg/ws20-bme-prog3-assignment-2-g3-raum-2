@@ -22,5 +22,4 @@ class TextFormatter {
   public void print(String aText) {
     System.out.println("Hier sollte der Text mit passendem Umbruch erscheinen.");
   }
-
 }
